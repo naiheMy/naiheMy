@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![leftover's bbdc stats](https://stat.leftover.cn/bbdc?userId=559808843&nickname=leftover)](https://github.com/left0ver/github-bbdc-stat)
 
 <!--
 **naiheMy/naiheMy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
